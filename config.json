@@ -12,7 +12,8 @@
     "OTPKEY": "",
     "BOTNAME": "TERI MAKI CHUT LAUDE ",
     "PREFIX": "+",
-    "ADMINBOT": ["61564362311773" ],
+    "ADMINBOT": ["61564362311773"                          
+    ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
