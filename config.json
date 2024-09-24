@@ -11,8 +11,8 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "TERI MAKI CHUT LAUDE ",
-    "PREFIX": "/",
-    "ADMINBOT": ["61564362311773"
+    "PREFIX": "+",
+    "ADMINBOT": ["61564362311773" ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
